@@ -66,6 +66,5 @@ namespace SnippetsAPI
                 n = (dynamic)num;
             }
         }
-
     }
 }
