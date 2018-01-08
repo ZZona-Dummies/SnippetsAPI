@@ -1,0 +1,6 @@
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\bin\Debug\DeltaSockets.exe.config
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\bin\Debug\DeltaSockets.exe
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\bin\Debug\DeltaSockets.pdb
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\obj\Debug\DeltaSockets.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\obj\Debug\DeltaSockets.exe
+X:\Visual Studio Projects\SnippetsAPI\DeltaSockets\obj\Debug\DeltaSockets.pdb

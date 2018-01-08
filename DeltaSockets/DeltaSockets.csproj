@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27E28A7C-32D1-4087-AC33-DE66DCAE9ED4}</ProjectGuid>
+    <ProjectGuid>{A405E060-3C01-4374-A12B-1A43289871F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SnippetsAPI</RootNamespace>
-    <AssemblyName>SnippetsAPI</AssemblyName>
+    <RootNamespace>DeltaSockets</RootNamespace>
+    <AssemblyName>DeltaSockets</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,15 +44,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocketExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DeltaSockets\DeltaSockets.csproj">
-      <Project>{A405E060-3C01-4374-A12B-1A43289871F9}</Project>
-      <Name>DeltaSockets</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

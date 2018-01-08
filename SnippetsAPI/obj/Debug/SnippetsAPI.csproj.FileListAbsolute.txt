@@ -1,0 +1,10 @@
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\obj\Debug\SnippetsAPI.csprojResolveAssemblyReference.cache
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\obj\Debug\SnippetsAPI.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\SnippetsAPI.exe.config
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\SnippetsAPI.exe
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\SnippetsAPI.pdb
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\DeltaSockets.exe
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\DeltaSockets.pdb
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\bin\Debug\DeltaSockets.exe.config
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\obj\Debug\SnippetsAPI.exe
+X:\Visual Studio Projects\SnippetsAPI\SnippetsAPI\obj\Debug\SnippetsAPI.pdb
